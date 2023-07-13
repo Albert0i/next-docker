@@ -50,9 +50,9 @@ ENTRYPOINT ["node", ".next/standalone/server.js"]
 # NextJS | Output
 # https://nextjs.org/docs/pages/api-reference/next-config-js/output
 #
-#RUN curl.exe -o node-v18.16.1-win-x64.zip -L https://nodejs.org/dist/v18.16.0/node-v18.16.1-win-x64.zip && \
+#RUN curl.exe -o node-v18.16.1-win-x64.zip -L https://nodejs.org/dist/v18.16.1/node-v18.16.1-win-x64.zip && \
 #    tar.exe -xf node-v18.16.1-win-x64.zip && \
 #    del node-v18.16.1-win-x64.zip 
 #
-# (2023/07/12)
+# (2023/07/13)
 # 
